@@ -1,0 +1,62 @@
+.each-list-card-container {
+  border-radius: 8px;
+  border-color: #b6c3ca;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  border: solid;
+  border-width: 1px;
+  width: 30%;
+  height: 100px;
+  padding: 10px;
+  margin: 10px;
+}
+.sliced-heading-name-container {
+  border-radius: 25px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 10px;
+}
+.sliced-heading-name {
+  font-size: 25px;
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.each-list-details-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.each-list-web-address {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'roboto';
+}
+.each-list-user-name {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'roboto';
+}
+.password-star-img {
+  width: 70px;
+  height: 16px;
+  padding-top: 0px;
+}
+.each-list-password {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'roboto';
+}
+.delete-button {
+  background-color: transparent;
+  width: 26px;
+  height: 26px;
+  border: none;
+}
+.delete-button-img {
+  width: 26px;
+  height: 26px;
+}
